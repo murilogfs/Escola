@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color:red;
+    text-align: center;
+    font-size: 22px;
+}
+nav a:hover{
+    color:greenyellow
+}
